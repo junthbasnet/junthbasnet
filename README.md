@@ -1,4 +1,4 @@
-### Hi there 👋, I'm a Django Developer.
+### Hi there 👋, I'm a Python Developer.
 
 <!--
 **Junth/Junth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
