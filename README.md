@@ -1,4 +1,6 @@
-### Hi there 👋, I'm a Python Developer.
+### Hi there 👋,
+
+Research Interests: Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, Natural Language Processing
 
 <!--
 **Junth/Junth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
