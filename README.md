@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-Research Interests: Probabilistic Machine Learning, Deep Generative Modeling, Computer Vision, Medical Imaging
+Research Interests: LLMs, Probabilistic Machine Learning, Deep Generative Modeling, Computer Vision, Medical Imaging
 
 <!--
 **Junth/Junth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
